@@ -1,4 +1,4 @@
-module github.com/any-call/myasynqtask
+module github.com/any-call/myAsynQTask
 
 go 1.24.2
 
